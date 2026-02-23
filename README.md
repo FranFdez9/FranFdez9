@@ -1,5 +1,7 @@
 # 👋 Hola, soy Francisco José
 
+💡 Junior Backend Developer | Java & Spring Boot  
+
 🎓 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)
 
 💻 Desarrollador con experiencia en backend, desarrollo de aplicaciones y videojuegos  
@@ -33,12 +35,15 @@
 - Raylib (programación de videojuegos en C)  
 
 ---
+
 ## 🧰 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
 
 ## 🛠️ Herramientas
 
@@ -65,6 +70,9 @@
 ## 🚀 Proyectos destacados
 
 ### 🎮 Juego en C con Raylib
+
+![Gameplay](AQUI_TU_IMAGEN_O_GIF)
+
 Desarrollo de un videojuego utilizando C y la librería Raylib, implementando lógica de juego, renderizado gráfico y control de eventos.
 
 🔧 Tecnologías: C, Raylib  
@@ -73,9 +81,29 @@ Desarrollo de un videojuego utilizando C y la librería Raylib, implementando l�
 ---
 
 ### 🎮 Juego en Godot
+
+![Gameplay](AQUI_TU_IMAGEN_O_GIF)
+
 Desarrollo de un videojuego utilizando el motor Godot, aplicando lógica de juego y diseño interactivo.
 
 🔗 https://github.com/FranFdez9/GEOFLASH-LITE  
+
+---
+
+### ⚙️ API REST con Spring Boot
+
+Desarrollo de una API REST con operaciones CRUD conectada a base de datos.
+
+🔧 Tecnologías: Java, Spring Boot, MySQL  
+🔗 https://github.com/TU-REPO  
+
+---
+
+## 📊 Estadísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FranFdez9&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranFdez9&layout=compact)
 
 ---
 
