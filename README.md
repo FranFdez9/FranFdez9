@@ -109,9 +109,11 @@ Desarrollo de un videojuego utilizando C y la librería Raylib, implementando l�
 
 ## 📊 Estadísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FranFdez9&show_icons=true&theme=default)
+## 📊 Estadísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranFdez9&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FranFdez9&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranFdez9&layout=compact&theme=tokyonight)
 
 ---
 
