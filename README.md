@@ -1,4 +1,4 @@
-# 👋 Hola, soy [Francisco José]
+# 👋 Hola, soy Francisco José
 
 🎓 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)
 
@@ -18,7 +18,8 @@
 
 ### ⚙️ Backend & Frameworks
 - Spring Boot  
-- Java Swing  
+- Java Swing
+- Tkinter (py) 
 
 ### 🗄️ Bases de datos
 - MySQL  
@@ -29,18 +30,48 @@
 
 ### 🎮 Otros
 - Godot (desarrollo de videojuegos)  
+- Raylib (programación de videojuegos en C)  
 
 ---
 
-## 🔧 Herramientas
-- Git & GitHub  
-- VS Code / IntelliJ IDEA  
+## 🛠️ Herramientas
 
+### 💻 IDEs
+- IntelliJ IDEA  
+- NetBeans  
+- PyCharm  
+
+### 📱 Desarrollo
+- Android Studio  
+- Godot  
+
+### 🗄️ Bases de datos
+- MySQL Workbench  
+- HeidiSQL  
+
+### ⚙️ Otros
+- Git & GitHub  
+- Máquinas Virtuales (VirtualBox / VMware)  
+- Odoo  
+
+---
+
+## 🚀 Proyectos destacados
+
+### 🎮 Juego en C con Raylib
+Desarrollo de un videojuego utilizando C y la librería Raylib, implementando lógica de juego, renderizado gráfico y control de eventos.
+
+🔧 Tecnologías: C, Raylib : 
+
+### 🎮 Juego en godot :
+Desarrollo de un videojuego utilizando Godot.
+
+🔧
 ---
 
 ## 📌 Sobre mí
-Me gusta desarrollar aplicaciones prácticas y aprender nuevas tecnologías.  
-Disfruto trabajando tanto en backend como en proyectos más creativos como videojuegos.  
+Me gusta desarrollar aplicaciones prácticas y seguir aprendiendo nuevas tecnologías.  
+Disfruto tanto del desarrollo backend como de proyectos creativos como los videojuegos.  
 
 ---
 
@@ -50,5 +81,5 @@ Seguir creciendo como desarrollador y conseguir una oportunidad en el sector IT 
 ---
 
 ## 📫 Contacto
-- LinkedIn: [No disponible en estos momentos...]
-- Email: [fraanfernandezz9@gmail.com]
+- LinkedIn: Próximamente  
+- Email: fraanfernandezz9@gmail.com  
