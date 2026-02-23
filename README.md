@@ -70,9 +70,6 @@
 ## 🚀 Proyectos destacados
 
 ### 🎮 Juego en C con Raylib
-
-![Gameplay](AQUI_TU_IMAGEN_O_GIF)
-
 Desarrollo de un videojuego utilizando C y la librería Raylib, implementando lógica de juego, renderizado gráfico y control de eventos.
 
 🔧 Tecnologías: C, Raylib  
