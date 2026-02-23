@@ -82,7 +82,7 @@ Desarrollo de un videojuego utilizando C y la librería Raylib, implementando l�
 
 ### 🎮 Juego en Godot
 
-![Gameplay](AQUI_TU_IMAGEN_O_GIF)
+![Gameplay]((https://github.com/FranFdez9/GEOFLASH-LITE/blob/main/gameplay.png))
 
 Desarrollo de un videojuego utilizando el motor Godot, aplicando lógica de juego y diseño interactivo.
 
