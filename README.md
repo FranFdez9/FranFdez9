@@ -42,7 +42,8 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+
 ---
 
 ## 🛠️ Herramientas
@@ -69,21 +70,12 @@
 
 ## 🚀 Proyectos destacados
 
-### 🎮 Juego en C con Raylib
-Desarrollo de un videojuego utilizando C y la librería Raylib, implementando lógica de juego, renderizado gráfico y control de eventos.
+### 🦷 Sistema de gestión para clínica dental
 
-🔧 Tecnologías: C, Raylib  
-🔗 https://github.com/FranFdez9/PICK-COIN  
+Aplicación de escritorio desarrollada en Python con Tkinter para la gestión de pacientes, incluyendo base de datos y generación de documentos en PDF.
 
----
-
-### 🎮 Juego en Godot
-
-![Gameplay](https://github.com/FranFdez9/GEOFLASH-LITE/blob/main/gameplay.png)
-
-Desarrollo de un videojuego utilizando el motor Godot, aplicando lógica de juego y diseño interactivo.
-
-🔗 https://github.com/FranFdez9/GEOFLASH-LITE  
+🔧 Tecnologías: Python, Tkinter, SQLite  
+🔗 https://github.com/TU-REPO  
 
 ---
 
@@ -93,6 +85,25 @@ Desarrollo de una API REST con operaciones CRUD conectada a base de datos.
 
 🔧 Tecnologías: Java, Spring Boot, MySQL  
 🔗 https://github.com/TU-REPO  
+
+---
+
+### 🎮 Juego en Godot
+
+![Gameplay](https://github.com/FranFdez9/GEOFLASH-LITE/raw/main/gameplay.png)
+
+Desarrollo de un videojuego utilizando el motor Godot, aplicando lógica de juego y diseño interactivo.
+
+🔗 https://github.com/FranFdez9/GEOFLASH-LITE  
+
+---
+
+### 🎮 Juego en C con Raylib
+
+Desarrollo de un videojuego utilizando C y la librería Raylib, implementando lógica de juego, renderizado gráfico y control de eventos.
+
+🔧 Tecnologías: C, Raylib  
+🔗 https://github.com/FranFdez9/PICK-COIN  
 
 ---
 
