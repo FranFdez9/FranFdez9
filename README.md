@@ -71,7 +71,7 @@
 ## 🚀 Proyectos destacados
 
 ### 🦷 Sistema de gestión para clínica dental
-![Gameplay](https://github.com/FranFdez9/Gesti-n-Dentista/blob/main/Inicio%20Dentista.png)
+![App](https://github.com/FranFdez9/Gesti-n-Dentista/raw/main/Inicio%20Dentista.png)
 Aplicación de escritorio desarrollada en Python con Tkinter para la gestión de pacientes, incluyendo base de datos y generación de documentos en PDF.
 
 🔧 Tecnologías: Python, Tkinter, SQLite  
