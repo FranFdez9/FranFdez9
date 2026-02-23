@@ -84,7 +84,7 @@ Aplicación de escritorio desarrollada en Python con Tkinter para la gestión de
 Desarrollo de una API REST con operaciones CRUD conectada a base de datos.
 
 🔧 Tecnologías: Java, Spring Boot, MySQL  
-🔗 https://github.com/TU-REPO  
+🔗 https://github.com/FranFdez9/TiendaOnlineWeb-SpringBoot
 
 ---
 
