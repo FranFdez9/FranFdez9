@@ -5,7 +5,8 @@
 🎓 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)
 
 💻 Desarrollador con experiencia en backend, desarrollo de aplicaciones y videojuegos  
-🚀 Interesado en crear soluciones eficientes, escalables y bien estructuradas  
+🚀 Interesado en crear soluciones eficientes, escalables y bien estructuradas
+🔎 Enfocado en el desarrollo backend y en la creación de soluciones prácticas de software
 📈 Siempre aprendiendo y mejorando mis habilidades  
 
 ---
