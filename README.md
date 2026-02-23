@@ -50,5 +50,5 @@ Seguir creciendo como desarrollador y conseguir una oportunidad en el sector IT 
 ---
 
 ## 📫 Contacto
-- LinkedIn: [tu perfil]
-- Email: [tu email]
+- LinkedIn: [No disponible en estos momentos...]
+- Email: [fraanfernandezz9@gmail.com]
