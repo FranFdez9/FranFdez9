@@ -75,7 +75,7 @@
 Aplicación de escritorio desarrollada en Python con Tkinter para la gestión de pacientes, incluyendo base de datos y generación de documentos en PDF.
 
 🔧 Tecnologías: Python, Tkinter, SQLite  
-🔗 https://github.com/TU-REPO  
+🔗 https://github.com/FranFdez9/Gesti-n-Dentista 
 
 ---
 
