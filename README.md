@@ -6,7 +6,7 @@
 
 💻 Desarrollador con experiencia en backend, desarrollo de aplicaciones y videojuegos  
 🚀 Interesado en crear soluciones eficientes, escalables y bien estructuradas
-🔎 Enfocado en el desarrollo backend y en la creación de soluciones prácticas de software
+🔎 Especializado en desarrollo backend y en la construcción de aplicaciones prácticas
 📈 Siempre aprendiendo y mejorando mis habilidades  
 
 ---
