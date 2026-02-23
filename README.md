@@ -18,8 +18,8 @@
 
 ### ⚙️ Backend & Frameworks
 - Spring Boot  
-- Java Swing
-- Tkinter (py) 
+- Java Swing  
+- Tkinter (Python)  
 
 ### 🗄️ Bases de datos
 - MySQL  
@@ -33,6 +33,12 @@
 - Raylib (programación de videojuegos en C)  
 
 ---
+## 🧰 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 🛠️ Herramientas
 
@@ -61,12 +67,16 @@
 ### 🎮 Juego en C con Raylib
 Desarrollo de un videojuego utilizando C y la librería Raylib, implementando lógica de juego, renderizado gráfico y control de eventos.
 
-🔧 Tecnologías: C, Raylib : 
+🔧 Tecnologías: C, Raylib  
+🔗 https://github.com/FranFdez9/PICK-COIN  
 
-### 🎮 Juego en godot :
-Desarrollo de un videojuego utilizando Godot.
+---
 
-🔧
+### 🎮 Juego en Godot
+Desarrollo de un videojuego utilizando el motor Godot, aplicando lógica de juego y diseño interactivo.
+
+🔗 https://github.com/FranFdez9/GEOFLASH-LITE  
+
 ---
 
 ## 📌 Sobre mí
