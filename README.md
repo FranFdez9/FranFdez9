@@ -59,7 +59,6 @@
 - IntelliJ IDEA  
 - VS Code  
 - Android Studio  
-- Eclipse  
 - NetBeans  
 - PyCharm  
 
@@ -116,13 +115,12 @@ A fully functional video game developed from scratch using the Godot Engine. It 
 
 ---
 
-### 📱 [Nombre de la App - Ej: UrbanApp] (Mobile App)
+### 📱  UrbanApp (Mobile App)
 
-> *[REEMPLAZAR ESTA DESCRIPCIÓN POR LA TUYA]*  
-> *Ejemplo: A secure React Native application featuring a private, invitation-only authentication flow and persistent login sessions. Developed following modern UI/UX principles and integrated with a robust BaaS backend.*
+UrbanApp is a private React Native and Expo app designed for controlled access. It features an invitation-only Supabase authentication system with 15-day persistent sessions and secure password recovery. It also integrates native device capabilities like GPS and camera, offering a seamless experience for authorized users.
 
 🔧 **Technologies:** React Native, Expo, TypeScript, Supabase  
-🔗 *[Add your GitHub link here]*
+🔗 [UrbanApp](https://github.com/FranFdez9/UrbanApp)
 
 ---
 
