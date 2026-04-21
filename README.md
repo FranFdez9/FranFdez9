@@ -1,4 +1,3 @@
-<img width="960" height="2079" alt="tablon" src="https://github.com/user-attachments/assets/70eb1ec6-3d01-451c-96c7-65c5e75c6d53" />
 # 👋 Hi, I'm Francisco José
 
 💡 Junior Backend Developer | Java & Spring Boot  
@@ -117,7 +116,7 @@ A fully functional video game developed from scratch using the Godot Engine. It 
 ---
 
 ### 📱  UrbanApp (Mobile App)
-
+<img width="200" height="200" alt="tablon" src="https://github.com/user-attachments/assets/70eb1ec6-3d01-451c-96c7-65c5e75c6d53" />
 UrbanApp is a private React Native and Expo app designed for controlled access. It features an invitation-only Supabase authentication system with 15-day persistent sessions and secure password recovery. It also integrates native device capabilities like GPS and camera, offering a seamless experience for authorized users.
 
 🔧 **Technologies:** React Native, Expo, TypeScript, Supabase  
