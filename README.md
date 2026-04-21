@@ -116,7 +116,12 @@ A fully functional video game developed from scratch using the Godot Engine. It 
 ---
 
 ### 📱  UrbanApp (Mobile App)
-<img width="400" height="400" alt="tablon" src="https://github.com/user- attachments/assets/70eb1ec6-3d01-451c-96c7-65c5e75c6d53" /> <img width="400" height="400" alt="login" src="https://github.com/user-attachments/assets/af451a13-7921-4729-84a5-b99deea8d66c" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/93f3318a-c79f-4a44-8b95-eb7bd6d5c36c" width="30%" />
+  <img src="AQUI_TU_ENLACE_DE_IMAGEN_2" width="30%" />
+  <img src="AQUI_TU_ENLACE_DE_IMAGEN_3" width="30%" />
+</p>
+
 
 UrbanApp is a private React Native and Expo app designed for controlled access. It features an invitation-only Supabase authentication system with 15-day persistent sessions and secure password recovery. It also integrates native device capabilities like GPS and camera, offering a seamless experience for authorized users.
 
