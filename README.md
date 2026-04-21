@@ -118,8 +118,8 @@ A fully functional video game developed from scratch using the Godot Engine. It 
 ### 📱  UrbanApp (Mobile App)
 <p align="center">
   <img src="https://github.com/user-attachments/assets/93f3318a-c79f-4a44-8b95-eb7bd6d5c36c" width="30%" />
-  <img src="AQUI_TU_ENLACE_DE_IMAGEN_2" width="30%" />
-  <img src="AQUI_TU_ENLACE_DE_IMAGEN_3" width="30%" />
+  <img src="https://github.com/user-attachments/assets/02a5db59-b738-4514-83b4-d55d335e4a00" width="30%" />
+  <img src="https://github.com/user-attachments/assets/d6ec5754-578a-47d5-94cf-22a70bbac399" width="30%" />
 </p>
 
 
