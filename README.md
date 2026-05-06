@@ -96,7 +96,7 @@ Desktop application tailored for dental clinic management. It encompasses patien
 ---
 
 ### 💪 goStrong (Fitness Tracker)
-<img src="https://github.com/user-attachments/assets/ec5f7119-48a7-4e14-a9b1-8b3c1484d882" width="200" height="260" alt="Captura home GoStrong" />
+<img src="https://github.com/user-attachments/assets/ec5f7119-48a7-4e14-a9b1-8b3c1484d882" width="300" height="360" alt="Captura home GoStrong" />
 
 An Android application designed for fitness and nutrition tracking. It leverages a hybrid data architecture, combining local persistence for offline capabilities with cloud authentication for secure account management.
 
