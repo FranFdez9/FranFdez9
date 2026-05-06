@@ -100,7 +100,7 @@ Desktop application tailored for dental clinic management. It encompasses patien
 An Android application designed for fitness and nutrition tracking. It leverages a hybrid data architecture, combining local persistence for offline capabilities with cloud authentication for secure account management.
 
 🔧 **Technologies:** Android, Java/Kotlin, Room Database, Supabase Auth  
-🔗 *[Add your GitHub link here]*
+🔗 [App](https://github.com/FranFdez9/GoStrong)
 
 ---
 
