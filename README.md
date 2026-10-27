@@ -197,7 +197,7 @@ A private mobile application built with React Native, Expo, and Supabase. It inc
 Completed — IES Torre del Rey
 
 **Web Application Development (DAW)**  
-Completed _ IES Alixar
+Completed — IES Alixar
 
 ---
 
